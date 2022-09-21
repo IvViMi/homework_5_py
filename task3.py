@@ -1,3 +1,5 @@
+# Создайте программу для игры в ""Крестики-нолики"".
+
 tictactoe = list(range(1,10))
 def XsOs_board(tictactoe):
     for i in range(3):
